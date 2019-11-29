@@ -1,0 +1,3 @@
+[submodule "jms_framework"]
+	path = jms_framework
+	url = https://github.com/jiteman/jms_framework.git
